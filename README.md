@@ -68,13 +68,16 @@ cv2.imshow(pic2)
 ### i) Read and display the image
 
 <br>
-![dip-ss](https://user-images.githubusercontent.com/75235601/160896021-761e939d-0b2c-42e3-8651-33ffbebf2cda.png)
+![dip-ss](https://user-images.githubusercontent.com/75235601/160896588-a9eb0567-d498-4c03-b3c6-d00ea5db8007.jpg)
+
+
 <br>
 
 ### ii)Write the image
 
 <br>
-![dip-ss2](https://user-images.githubusercontent.com/75235601/160893786-6cd41f4c-b166-4dcd-bbc2-f62c6b44beac.jpg)
+![dip-ss2](https://user-images.githubusercontent.com/75235601/160896647-71d64487-8d80-4824-b08f-fe59751d93f1.jpg)
+
 <br>
 
 ### iii)Shape of the Image
