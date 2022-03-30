@@ -25,6 +25,7 @@ python
 # Register Number: 212220230005
 # To Read,display the image
 
+```
 import cv2
 pic=cv2.imread("mj.jpg",1)
 cv2.imshow(pic)
@@ -64,14 +65,13 @@ pic2[0:74,0:87]=cut
 
 cv2.imshow(pic2)
 
-```
 
 
 
 
 
 
-```
+
 ## Output:
 
 ### i) Read and display the image
@@ -105,4 +105,3 @@ cv2.imshow(pic2)
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
-```
