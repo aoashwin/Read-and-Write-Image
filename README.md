@@ -68,7 +68,7 @@ cv2.imshow(pic2)
 ### i) Read and display the image
 
 <br>
-![dip-ss](https://user-images.githubusercontent.com/75235601/160896588-a9eb0567-d498-4c03-b3c6-d00ea5db8007.jpg)
+![dip-ss.jpg]
 
 
 <br>
