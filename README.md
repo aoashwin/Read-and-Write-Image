@@ -68,7 +68,7 @@ cv2.imshow(pic2)
 ### i) Read and display the image
 
 <br>
-![dip-ss](https://user-images.githubusercontent.com/75235601/160897923-af5048a3-af56-4587-a1ab-3f86e384f488.jpg)
+![Michael-Jackson-iphone-4s-wallpaper-ilikewallpaper_com](https://user-images.githubusercontent.com/75235601/160898164-e7cf60b3-533c-4ee2-961c-17e300a922c1.jpg)
 
 <br>
 
