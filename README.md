@@ -25,45 +25,35 @@ python
 # Register Number: 212220230005
 # To Read,display the image
 
-```
-```
 import cv2
 pic=cv2.imread("mj.jpg",1)
 cv2.imshow(pic)
 
 cv2.waitKey(0)
-```
 
 
 # To write the image
 
-```
 cv2.imwrite("newimage.jpeg",pic)
-```
 
 
 
 # Find the shape of the Image
 
-```
 print(pic.shape)
 
-```
 
 # To access rows and columns
 
-```
 import random
 for i in range(100):
     for j in range(pic.shape[1]):
         pic[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
 cv2.imshow(pic)
 cv2.waitKey(0)
-```
 
 # To cut and paste portion of image
 
-```
 pic2=cv2.imread("mj.jpg",1)
 pic2 = cv2.resize(pic2, (300, 430))
 pic2[500:550,500:550]=[0,0,0]
@@ -73,9 +63,8 @@ cut= pic2[37:111,108:195]
 pic2[0:74,0:87]=cut
 
 cv2.imshow(pic2)
+
 ```
-
-
 
 
 
@@ -116,4 +105,4 @@ cv2.imshow(pic2)
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
-
+```
