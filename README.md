@@ -68,7 +68,7 @@ cv2.imshow(pic2)
 ### i) Read and display the image
 
 <br>
-![output](./dip-ss.jpg)
+![output](dip-ss.jpg)
 
 
 <br>
