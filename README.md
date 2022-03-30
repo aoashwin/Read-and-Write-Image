@@ -19,8 +19,7 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-```
-python
+```python
 # Developed By: ASHWIN A O
 # Register Number: 212220230005
 # To Read,display the image
@@ -69,7 +68,7 @@ cv2.imshow(pic2)
 ### i) Read and display the image
 
 <br>
-![dip-ss](https://user-images.githubusercontent.com/75235601/160896021-761e939d-0b2c-42e3-8651-33ffbebf2cda.jpg)
+![dip-ss](https://user-images.githubusercontent.com/75235601/160896021-761e939d-0b2c-42e3-8651-33ffbebf2cda.png)
 <br>
 
 ### ii)Write the image
