@@ -67,35 +67,28 @@ cv2.imshow(pic2)
 
 ### i) Read and display the image
 
-<br>
-![dip-ss](https://user-images.githubusercontent.com/75235601/161225421-eebf9e13-706e-4704-8d84-7492eceeee88.jpg)
+<br>![dip-ss](https://user-images.githubusercontent.com/75235601/161225998-f7aff911-0c00-4099-9ade-ebcd13a5c874.jpg)
 
-<br>
 
 ### ii)Write the image
 
-<br>
-![dip-ss2](https://user-images.githubusercontent.com/75235601/160896647-71d64487-8d80-4824-b08f-fe59751d93f1.jpg)
+<br>![dip-ss2](https://user-images.githubusercontent.com/75235601/160896647-71d64487-8d80-4824-b08f-fe59751d93f1.jpg)
 
-<br>
 
 ### iii)Shape of the Image
 
-<br>
-![dip-ss5](https://user-images.githubusercontent.com/75235601/160894096-7fd3a5c7-f1b3-4e6f-8922-c1b1ff1596e3.jpg)
-<br>
+<br>![dip-ss5](https://user-images.githubusercontent.com/75235601/160894096-7fd3a5c7-f1b3-4e6f-8922-c1b1ff1596e3.jpg)
+
 
 ### iv)Access rows and columns
 
-<br>
-![dip-ss3](https://user-images.githubusercontent.com/75235601/160894128-baaba772-979f-409a-b975-bbf1071fcfb4.jpg)
-<br>
+<br>![dip-ss3](https://user-images.githubusercontent.com/75235601/160894128-baaba772-979f-409a-b975-bbf1071fcfb4.jpg)
+
 
 ### v)Cut and paste portion of image
 
-<br>
-![dip-ss4](https://user-images.githubusercontent.com/75235601/160894163-5763409b-07af-42d1-920c-8f38574dc14d.jpg)
-<br>
+<br>![dip-ss4](https://user-images.githubusercontent.com/75235601/160894163-5763409b-07af-42d1-920c-8f38574dc14d.jpg)
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
